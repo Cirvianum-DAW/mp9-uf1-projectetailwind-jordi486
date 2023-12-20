@@ -1,4 +1,4 @@
-14857
+14861
 140C:\Users\Usuario\Downloads\projectem09\mp9-uf1-projectetailwind-jordi486\node_modules\readable-stream\lib\internal\streams\stream-browser.js133475704687162377 0
 145C:\Users\Usuario\Downloads\projectem09\mp9-uf1-projectetailwind-jordi486\node_modules\bin-wrapper\node_modules\download\node_modules\pify\license133475704628765237 0
 134C:\Users\Usuario\Downloads\projectem09\mp9-uf1-projectetailwind-jordi486\node_modules\sharp\vendor\8.13.3\win32-x64\lib\libvips-42.dll133119484170000000 0
@@ -15,7 +15,7 @@
 99C:\Users\Usuario\Downloads\projectem09\mp9-uf1-projectetailwind-jordi486\node_modules\xtend\LICENSE133475704637732728 0
 108C:\Users\Usuario\Downloads\projectem09\mp9-uf1-projectetailwind-jordi486\node_modules\lru-cache\package.json133473690991827883 0
 131C:\Users\Usuario\Downloads\projectem09\mp9-uf1-projectetailwind-jordi486\node_modules\@parcel\reporter-tracer\lib\TracerReporter.js133473691014239567 0
-85C:\Users\Usuario\Downloads\projectem09\mp9-uf1-projectetailwind-jordi486\package.json133475727848229553 0
+85C:\Users\Usuario\Downloads\projectem09\mp9-uf1-projectetailwind-jordi486\package.json133475731760995218 0
 103C:\Users\Usuario\Downloads\projectem09\mp9-uf1-projectetailwind-jordi486\node_modules\lmdb\src\misc.cpp133473691111161541 0
 122C:\Users\Usuario\Downloads\projectem09\mp9-uf1-projectetailwind-jordi486\node_modules\tar-fs\test\fixtures\d\sub-dir\file5133475716537704346 0
 90C:\Users\Usuario\Downloads\projectem09\mp9-uf1-projectetailwind-jordi486\src\contacte.html133475696293904580 0
@@ -39,7 +39,7 @@
 105C:\Users\Usuario\Downloads\projectem09\mp9-uf1-projectetailwind-jordi486\node_modules\uri-js\package.json133473691047754966 0
 134C:\Users\Usuario\Downloads\projectem09\mp9-uf1-projectetailwind-jordi486\node_modules\caniuse-lite\data\features\permissions-policy.js133473691268032784 0
 114C:\Users\Usuario\Downloads\projectem09\mp9-uf1-projectetailwind-jordi486\node_modules\sharp\install\can-compile.js133475716540200728 0
-77C:\Users\Usuario\Downloads\projectem09\mp9-uf1-projectetailwind-jordi486\dist133475718759803255 1
+77C:\Users\Usuario\Downloads\projectem09\mp9-uf1-projectetailwind-jordi486\dist133475731441479374 1
 128C:\Users\Usuario\Downloads\projectem09\mp9-uf1-projectetailwind-jordi486\node_modules\has-ansi\node_modules\ansi-regex\readme.md133475704660468771 0
 136C:\Users\Usuario\Downloads\projectem09\mp9-uf1-projectetailwind-jordi486\node_modules\sharp\vendor\8.13.3\win32-x64\include\webp\demux.h133117882010000000 0
 146C:\Users\Usuario\Downloads\projectem09\mp9-uf1-projectetailwind-jordi486\node_modules\tar-stream\node_modules\string_decoder\lib\string_decoder.js133475704679201220 0
@@ -140,7 +140,7 @@
 105C:\Users\Usuario\Downloads\projectem09\mp9-uf1-projectetailwind-jordi486\node_modules\js-yaml\lib\type.js133473691067985387 0
 94C:\Users\Usuario\Downloads\projectem09\mp9-uf1-projectetailwind-jordi486\node_modules\argparse133473691027661633 1
 105C:\Users\Usuario\Downloads\projectem09\mp9-uf1-projectetailwind-jordi486\node_modules\pn\child_process.js133473691022878182 0
-99C:\Users\Usuario\Downloads\projectem09\mp9-uf1-projectetailwind-jordi486\dist\fonts.8dd91edc.js.map133475643532906400 0
+99C:\Users\Usuario\Downloads\projectem09\mp9-uf1-projectetailwind-jordi486\dist\fonts.8dd91edc.js.map133475731441399408 0
 110C:\Users\Usuario\Downloads\projectem09\mp9-uf1-projectetailwind-jordi486\node_modules\sshpk\lib\formats\ssh.js133473691066377924 0
 98C:\Users\Usuario\Downloads\projectem09\mp9-uf1-projectetailwind-jordi486\node_modules\xmlchars\xml133473691005521694 1
 100C:\Users\Usuario\Downloads\projectem09\mp9-uf1-projectetailwind-jordi486\node_modules\glob\README.md133473691018533659 0
@@ -1464,6 +1464,7 @@
 117C:\Users\Usuario\Downloads\projectem09\mp9-uf1-projectetailwind-jordi486\node_modules\css-select\lib\esm\compile.d.ts133473691102355582 0
 123C:\Users\Usuario\Downloads\projectem09\mp9-uf1-projectetailwind-jordi486\node_modules\tailwindcss\lib\value-parser\index.js133473691129483399 0
 111C:\Users\Usuario\Downloads\projectem09\mp9-uf1-projectetailwind-jordi486\node_modules\parse5\lib\common\html.js133473691027875605 0
+96C:\Users\Usuario\Downloads\projectem09\mp9-uf1-projectetailwind-jordi486\dist\dron.86c33848.avif133475731440425779 0
 100C:\Users\Usuario\Downloads\projectem09\mp9-uf1-projectetailwind-jordi486\node_modules\lowercase-keys133475704647250909 1
 114C:\Users\Usuario\Downloads\projectem09\mp9-uf1-projectetailwind-jordi486\node_modules\tough-cookie\lib\memstore.js133473691014179573 0
 109C:\Users\Usuario\Downloads\projectem09\mp9-uf1-projectetailwind-jordi486\node_modules\@jridgewell\resolve-uri133473691016399181 1
@@ -2763,7 +2764,7 @@
 135C:\Users\Usuario\Downloads\projectem09\mp9-uf1-projectetailwind-jordi486\node_modules\yaml\dist\compose\util-empty-scalar-position.d.ts133473691160830718 0
 101C:\Users\Usuario\Downloads\projectem09\mp9-uf1-projectetailwind-jordi486\node_modules\srcset\index.js133473690987259987 0
 114C:\Users\Usuario\Downloads\projectem09\mp9-uf1-projectetailwind-jordi486\node_modules\yaml\dist\nodes\YAMLSeq.d.ts133473691162815724 0
-102C:\Users\Usuario\Downloads\projectem09\mp9-uf1-projectetailwind-jordi486\dist\images\jordiforcada.avif133475727986590856 0
+102C:\Users\Usuario\Downloads\projectem09\mp9-uf1-projectetailwind-jordi486\dist\images\jordiforcada.avif133475731874852357 0
 137C:\Users\Usuario\Downloads\projectem09\mp9-uf1-projectetailwind-jordi486\node_modules\svgo\node_modules\css-tree\cjs\syntax\node\Rule.cjs133473691114664775 0
 103C:\Users\Usuario\Downloads\projectem09\mp9-uf1-projectetailwind-jordi486\node_modules\find-up\readme.md133475704632033740 0
 149C:\Users\Usuario\Downloads\projectem09\mp9-uf1-projectetailwind-jordi486\node_modules\sharp\vendor\8.13.3\win32-x64\include\libxml2\libxml\xpointer.h133117882010000000 0
@@ -6445,7 +6446,7 @@
 109C:\Users\Usuario\Downloads\projectem09\mp9-uf1-projectetailwind-jordi486\node_modules\@parcel\package-manager133473691097892842 1
 109C:\Users\Usuario\Downloads\projectem09\mp9-uf1-projectetailwind-jordi486\node_modules\min-indent\package.json133475704633528627 0
 109C:\Users\Usuario\Downloads\projectem09\mp9-uf1-projectetailwind-jordi486\node_modules\source-map-js\README.md133473691044561647 0
-102C:\Users\Usuario\Downloads\projectem09\mp9-uf1-projectetailwind-jordi486\dist\contacte.1a0576c2.js.map133475643532996186 0
+102C:\Users\Usuario\Downloads\projectem09\mp9-uf1-projectetailwind-jordi486\dist\contacte.1a0576c2.js.map133475731441399408 0
 107C:\Users\Usuario\Downloads\projectem09\mp9-uf1-projectetailwind-jordi486\node_modules\lodash\fp\findFrom.js133473691194551732 0
 113C:\Users\Usuario\Downloads\projectem09\mp9-uf1-projectetailwind-jordi486\dist\producte1.bee9f856.js.map.19544.12m133473689055702401 0
 115C:\Users\Usuario\Downloads\projectem09\mp9-uf1-projectetailwind-jordi486\node_modules\source-map-js\source-map.d.ts133473691046108085 0
@@ -6459,6 +6460,7 @@
 108C:\Users\Usuario\Downloads\projectem09\mp9-uf1-projectetailwind-jordi486\node_modules\cssstyle\.eslintignore133473690987968869 0
 126C:\Users\Usuario\Downloads\projectem09\mp9-uf1-projectetailwind-jordi486\node_modules\source-map-js\lib\source-map-consumer.js133473691027332047 0
 106C:\Users\Usuario\Downloads\projectem09\mp9-uf1-projectetailwind-jordi486\node_modules\lodash\fp\indexBy.js133473691227853749 0
+96C:\Users\Usuario\Downloads\projectem09\mp9-uf1-projectetailwind-jordi486\dist\echo.0cba4ec9.avif133475731440425779 0
 130C:\Users\Usuario\Downloads\projectem09\mp9-uf1-projectetailwind-jordi486\node_modules\@swc\helpers\_\_sliced_to_array\package.json133473691174122408 0
 118C:\Users\Usuario\Downloads\projectem09\mp9-uf1-projectetailwind-jordi486\node_modules\source-map-js\lib\source-node.js133473691036495277 0
 109C:\Users\Usuario\Downloads\projectem09\mp9-uf1-projectetailwind-jordi486\node_modules\source-map\CHANGELOG.md133473691043427856 0
@@ -6843,7 +6845,7 @@
 103C:\Users\Usuario\Downloads\projectem09\mp9-uf1-projectetailwind-jordi486\node_modules\seek-bzip\LICENSE133475704637905584 0
 153C:\Users\Usuario\Downloads\projectem09\mp9-uf1-projectetailwind-jordi486\node_modules\sharp\vendor\8.13.3\win32-x64\include\libgsf-1\gsf\gsf-input-gzip.h133117882010000000 0
 107C:\Users\Usuario\Downloads\projectem09\mp9-uf1-projectetailwind-jordi486\node_modules\lodash\_createFind.js133473691133256851 0
-96C:\Users\Usuario\Downloads\projectem09\mp9-uf1-projectetailwind-jordi486\dist\index.4d663569.css133475643532581270 0
+96C:\Users\Usuario\Downloads\projectem09\mp9-uf1-projectetailwind-jordi486\dist\index.4d663569.css133475731440777071 0
 153C:\Users\Usuario\Downloads\projectem09\mp9-uf1-projectetailwind-jordi486\node_modules\sharp\vendor\8.13.3\win32-x64\include\libgsf-1\gsf\gsf-input-http.h133117882010000000 0
 153C:\Users\Usuario\Downloads\projectem09\mp9-uf1-projectetailwind-jordi486\node_modules\sharp\vendor\8.13.3\win32-x64\include\libgsf-1\gsf\gsf-input-impl.h133117882010000000 0
 128C:\Users\Usuario\Downloads\projectem09\mp9-uf1-projectetailwind-jordi486\node_modules\@swc\helpers\cjs\_class_name_tdz_error.cjs133473691055940882 0
@@ -6911,8 +6913,8 @@
 148C:\Users\Usuario\Downloads\projectem09\mp9-uf1-projectetailwind-jordi486\node_modules\sharp\vendor\8.13.3\win32-x64\include\harfbuzz\hb-ot-metrics.h133117882010000000 0
 111C:\Users\Usuario\Downloads\projectem09\mp9-uf1-projectetailwind-jordi486\node_modules\csso\lib\replace\color.js133473691044902086 0
 145C:\Users\Usuario\Downloads\projectem09\mp9-uf1-projectetailwind-jordi486\node_modules\sharp\vendor\8.13.3\win32-x64\include\harfbuzz\hb-ot-name.h133117882010000000 0
-91C:\Users\Usuario\Downloads\projectem09\mp9-uf1-projectetailwind-jordi486\dist\producte.html133475643532462438 0
-95C:\Users\Usuario\Downloads\projectem09\mp9-uf1-projectetailwind-jordi486\dist\fonts.8dd91edc.js133475643532512420 0
+91C:\Users\Usuario\Downloads\projectem09\mp9-uf1-projectetailwind-jordi486\dist\producte.html133475731440777071 0
+95C:\Users\Usuario\Downloads\projectem09\mp9-uf1-projectetailwind-jordi486\dist\fonts.8dd91edc.js133475731441034206 0
 140C:\Users\Usuario\Downloads\projectem09\mp9-uf1-projectetailwind-jordi486\node_modules\sharp\vendor\8.13.3\win32-x64\include\harfbuzz\hb-ot.h133117882010000000 0
 117C:\Users\Usuario\Downloads\projectem09\mp9-uf1-projectetailwind-jordi486\node_modules\@parcel\plugin\src\PluginAPI.js133473691024338895 0
 104C:\Users\Usuario\Downloads\projectem09\mp9-uf1-projectetailwind-jordi486\node_modules\http-signature\lib133473691021091914 1
@@ -7387,7 +7389,7 @@
 118C:\Users\Usuario\Downloads\projectem09\mp9-uf1-projectetailwind-jordi486\node_modules\semver\internal\parse-options.js133473691066444759 0
 117C:\Users\Usuario\Downloads\projectem09\mp9-uf1-projectetailwind-jordi486\node_modules\caniuse-lite\data\regions\YE.js133473691275683635 0
 107C:\Users\Usuario\Downloads\projectem09\mp9-uf1-projectetailwind-jordi486\node_modules\semver\internal\re.js133473691073024664 0
-127C:\Users\Usuario\Downloads\projectem09\mp9-uf1-projectetailwind-jordi486\dist\mp9-uf1-projectetailwind-jordi486.59712999.js.map133475643532926248 0
+127C:\Users\Usuario\Downloads\projectem09\mp9-uf1-projectetailwind-jordi486\dist\mp9-uf1-projectetailwind-jordi486.59712999.js.map133475731441409388 0
 111C:\Users\Usuario\Downloads\projectem09\mp9-uf1-projectetailwind-jordi486\node_modules\semver\functions\clean.js133473690992539551 0
 109C:\Users\Usuario\Downloads\projectem09\mp9-uf1-projectetailwind-jordi486\node_modules\semver\functions\cmp.js133473690997649782 0
 162C:\Users\Usuario\Downloads\projectem09\mp9-uf1-projectetailwind-jordi486\node_modules\@parcel\optimizer-htmlnano\node_modules\svgo\plugins\removeOffCanvasPaths.js133473691088505219 0
@@ -7975,7 +7977,7 @@
 109C:\Users\Usuario\Downloads\projectem09\mp9-uf1-projectetailwind-jordi486\node_modules\proto-list\package.json133475704629056615 0
 137C:\Users\Usuario\Downloads\projectem09\mp9-uf1-projectetailwind-jordi486\node_modules\css-select\node_modules\domutils\lib\stringify.d.ts133473691096397926 0
 145C:\Users\Usuario\Downloads\projectem09\mp9-uf1-projectetailwind-jordi486\node_modules\read-pkg-up\node_modules\type-fest\source\set-required.d.ts133475704696432381 0
-100C:\Users\Usuario\Downloads\projectem09\mp9-uf1-projectetailwind-jordi486\dist\index.4d663569.css.map133475643532946203 0
+100C:\Users\Usuario\Downloads\projectem09\mp9-uf1-projectetailwind-jordi486\dist\index.4d663569.css.map133475731441399408 0
 103C:\Users\Usuario\Downloads\projectem09\mp9-uf1-projectetailwind-jordi486\node_modules\figures\readme.md133475704644307887 0
 144C:\Users\Usuario\Downloads\projectem09\mp9-uf1-projectetailwind-jordi486\node_modules\read-pkg-up\node_modules\type-fest\source\stringified.d.ts133475704697681111 0
 103C:\Users\Usuario\Downloads\projectem09\mp9-uf1-projectetailwind-jordi486\node_modules\.bin\jpegtran.ps1133475704700926345 0
@@ -8576,7 +8578,7 @@
 132C:\Users\Usuario\Downloads\projectem09\mp9-uf1-projectetailwind-jordi486\node_modules\jsdom\lib\jsdom\living\generated\TouchEvent.js133473691168667700 0
 123C:\Users\Usuario\Downloads\projectem09\mp9-uf1-projectetailwind-jordi486\node_modules\console-stream\test\static\index.html133475704665058736 0
 146C:\Users\Usuario\Downloads\projectem09\mp9-uf1-projectetailwind-jordi486\node_modules\lightningcss-win32-x64-msvc\lightningcss.win32-x64-msvc.node133473691132481520 0
-88C:\Users\Usuario\Downloads\projectem09\mp9-uf1-projectetailwind-jordi486\dist\index.html133475643532462438 0
+88C:\Users\Usuario\Downloads\projectem09\mp9-uf1-projectetailwind-jordi486\dist\index.html133475731440787042 0
 157C:\Users\Usuario\Downloads\projectem09\mp9-uf1-projectetailwind-jordi486\node_modules\@parcel\workers\test\integration\workerfarm\resolve-shared-reference.js133473691069179950 0
 108C:\Users\Usuario\Downloads\projectem09\mp9-uf1-projectetailwind-jordi486\node_modules\pinkie-promise\license133475704628172011 0
 105C:\Users\Usuario\Downloads\projectem09\mp9-uf1-projectetailwind-jordi486\node_modules\pinkie\package.json133475704621305155 0
@@ -8664,7 +8666,7 @@
 134C:\Users\Usuario\Downloads\projectem09\mp9-uf1-projectetailwind-jordi486\node_modules\@parcel\core\test\fixtures\main-mjs\package.json133473691157465863 0
 105C:\Users\Usuario\Downloads\projectem09\mp9-uf1-projectetailwind-jordi486\node_modules\deep-extend\LICENSE133475716533327254 0
 105C:\Users\Usuario\Downloads\projectem09\mp9-uf1-projectetailwind-jordi486\node_modules\parse5\lib\index.js133473691032760336 0
-94C:\Users\Usuario\Downloads\projectem09\mp9-uf1-projectetailwind-jordi486\dist\images\dron.avif133475727963848017 0
+94C:\Users\Usuario\Downloads\projectem09\mp9-uf1-projectetailwind-jordi486\dist\images\dron.avif133475731851486751 0
 123C:\Users\Usuario\Downloads\projectem09\mp9-uf1-projectetailwind-jordi486\node_modules\caniuse-lite\data\features\colr-v1.js133473691115163343 0
 107C:\Users\Usuario\Downloads\projectem09\mp9-uf1-projectetailwind-jordi486\node_modules\parse5\lib\serializer133473691039923725 1
 156C:\Users\Usuario\Downloads\projectem09\mp9-uf1-projectetailwind-jordi486\node_modules\node-gyp-build-optional-packages\node_modules\detect-libc\package.json133473691010358401 0
@@ -11456,7 +11458,7 @@
 106C:\Users\Usuario\Downloads\projectem09\mp9-uf1-projectetailwind-jordi486\node_modules\globals\package.json133473691001823408 0
 136C:\Users\Usuario\Downloads\projectem09\mp9-uf1-projectetailwind-jordi486\node_modules\@parcel\transformer-react-refresh-wrap\src\helpers133473691034566623 1
 106C:\Users\Usuario\Downloads\projectem09\mp9-uf1-projectetailwind-jordi486\node_modules\glob-parent\index.js133473690987766048 0
-88C:\Users\Usuario\Downloads\projectem09\mp9-uf1-projectetailwind-jordi486\dist\fonts.html133475643532462438 0
+88C:\Users\Usuario\Downloads\projectem09\mp9-uf1-projectetailwind-jordi486\dist\fonts.html133475731440811092 0
 138C:\Users\Usuario\Downloads\projectem09\mp9-uf1-projectetailwind-jordi486\node_modules\@babel\highlight\node_modules\color-convert\route.js133473691021011929 0
 110C:\Users\Usuario\Downloads\projectem09\mp9-uf1-projectetailwind-jordi486\node_modules\glob-parent\package.json133473690992030649 0
 107C:\Users\Usuario\Downloads\projectem09\mp9-uf1-projectetailwind-jordi486\node_modules\glob-parent\README.md133473691005830883 0
@@ -11658,6 +11660,7 @@
 103C:\Users\Usuario\Downloads\projectem09\mp9-uf1-projectetailwind-jordi486\node_modules\file-type\util.js133475704678571157 0
 98C:\Users\Usuario\Downloads\projectem09\mp9-uf1-projectetailwind-jordi486\node_modules\.bin\resolve133473691279901227 0
 106C:\Users\Usuario\Downloads\projectem09\mp9-uf1-projectetailwind-jordi486\node_modules\figures\package.json133475704631526491 0
+104C:\Users\Usuario\Downloads\projectem09\mp9-uf1-projectetailwind-jordi486\dist\dronprincipi.bf34a771.avif133475731440425779 0
 116C:\Users\Usuario\Downloads\projectem09\mp9-uf1-projectetailwind-jordi486\node_modules\any-promise\register\when.d.ts133473691064495945 0
 108C:\Users\Usuario\Downloads\projectem09\mp9-uf1-projectetailwind-jordi486\node_modules\fd-slicer\CHANGELOG.md133475704651291867 0
 104C:\Users\Usuario\Downloads\projectem09\mp9-uf1-projectetailwind-jordi486\node_modules\fd-slicer\index.js133475704640932493 0
@@ -12342,7 +12345,7 @@
 105C:\Users\Usuario\Downloads\projectem09\mp9-uf1-projectetailwind-jordi486\node_modules\css-tree\lib\walker133473691102500648 1
 113C:\Users\Usuario\Downloads\projectem09\mp9-uf1-projectetailwind-jordi486\node_modules\css-tree\lib\utils\clone.js133473691046188092 0
 125C:\Users\Usuario\Downloads\projectem09\mp9-uf1-projectetailwind-jordi486\node_modules\css-tree\lib\utils\createCustomError.js133473691065509327 0
-123C:\Users\Usuario\Downloads\projectem09\mp9-uf1-projectetailwind-jordi486\dist\mp9-uf1-projectetailwind-jordi486.59712999.js133475643532581270 0
+123C:\Users\Usuario\Downloads\projectem09\mp9-uf1-projectetailwind-jordi486\dist\mp9-uf1-projectetailwind-jordi486.59712999.js133475731441034206 0
 113C:\Users\Usuario\Downloads\projectem09\mp9-uf1-projectetailwind-jordi486\node_modules\css-tree\lib\utils\names.js133473691109930189 0
 133C:\Users\Usuario\Downloads\projectem09\mp9-uf1-projectetailwind-jordi486\node_modules\css-tree\lib\tokenizer\char-code-definitions.js133473691042255722 0
 117C:\Users\Usuario\Downloads\projectem09\mp9-uf1-projectetailwind-jordi486\node_modules\css-tree\lib\tokenizer\utils.js133473691129758741 0
@@ -13895,7 +13898,7 @@
 127C:\Users\Usuario\Downloads\projectem09\mp9-uf1-projectetailwind-jordi486\node_modules\@swc\helpers\src\_to_consumable_array.mjs133473691191470952 0
 120C:\Users\Usuario\Downloads\projectem09\mp9-uf1-projectetailwind-jordi486\node_modules\@swc\helpers\src\_to_primitive.mjs133473691191817406 0
 123C:\Users\Usuario\Downloads\projectem09\mp9-uf1-projectetailwind-jordi486\node_modules\@swc\helpers\src\_to_property_key.mjs133473691191817406 0
-91C:\Users\Usuario\Downloads\projectem09\mp9-uf1-projectetailwind-jordi486\dist\contacte.html133475643532462438 0
+91C:\Users\Usuario\Downloads\projectem09\mp9-uf1-projectetailwind-jordi486\dist\contacte.html133475731440787042 0
 119C:\Users\Usuario\Downloads\projectem09\mp9-uf1-projectetailwind-jordi486\node_modules\@swc\helpers\src\_ts_decorate.mjs133473691191817406 0
 119C:\Users\Usuario\Downloads\projectem09\mp9-uf1-projectetailwind-jordi486\node_modules\@swc\helpers\src\_ts_metadata.mjs133473691192117099 0
 116C:\Users\Usuario\Downloads\projectem09\mp9-uf1-projectetailwind-jordi486\node_modules\@swc\helpers\src\_ts_param.mjs133473691193412894 0
@@ -14541,7 +14544,7 @@
 129C:\Users\Usuario\Downloads\projectem09\mp9-uf1-projectetailwind-jordi486\node_modules\@parcel\core\test\PublicEnvironment.test.js133473691131328319 0
 136C:\Users\Usuario\Downloads\projectem09\mp9-uf1-projectetailwind-jordi486\node_modules\@parcel\core\test\PublicMutableBundleGraph.test.js133473691131530178 0
 129C:\Users\Usuario\Downloads\projectem09\mp9-uf1-projectetailwind-jordi486\node_modules\@parcel\core\test\SymbolPropagation.test.js133473691138996275 0
-98C:\Users\Usuario\Downloads\projectem09\mp9-uf1-projectetailwind-jordi486\dist\contacte.1a0576c2.js133475643532512420 0
+98C:\Users\Usuario\Downloads\projectem09\mp9-uf1-projectetailwind-jordi486\dist\contacte.1a0576c2.js133475731441034206 0
 117C:\Users\Usuario\Downloads\projectem09\mp9-uf1-projectetailwind-jordi486\node_modules\@parcel\core\test\test-utils.js133473691141205960 0
 137C:\Users\Usuario\Downloads\projectem09\mp9-uf1-projectetailwind-jordi486\node_modules\@parcel\core\test\fixtures\config-extends-not-found133473691055033305 1
 129C:\Users\Usuario\Downloads\projectem09\mp9-uf1-projectetailwind-jordi486\node_modules\@parcel\core\test\fixtures\config-malformed133473691025993053 1
@@ -14841,18 +14844,19 @@
 109C:\Users\Usuario\Downloads\projectem09\mp9-uf1-projectetailwind-jordi486\dist\index.4d663569.css.map.17468.5t133475620842781574 0
 109C:\Users\Usuario\Downloads\projectem09\mp9-uf1-projectetailwind-jordi486\dist\index.4d663569.css.map.20252.2r133473689052897441 0
 108C:\Users\Usuario\Downloads\projectem09\mp9-uf1-projectetailwind-jordi486\dist\index.4d663569.css.map.2656.ls133473689052897441 0
+104C:\Users\Usuario\Downloads\projectem09\mp9-uf1-projectetailwind-jordi486\dist\jordiforcada.ffb41b32.avif133475731440425779 0
 135C:\Users\Usuario\Downloads\projectem09\mp9-uf1-projectetailwind-jordi486\dist\mp9-uf1-projectetailwind-jordi486.59712999.js.map.1960.2v133473689053585305 0
 135C:\Users\Usuario\Downloads\projectem09\mp9-uf1-projectetailwind-jordi486\dist\mp9-uf1-projectetailwind-jordi486.59712999.js.map.2656.lr133473689053605200 0
 135C:\Users\Usuario\Downloads\projectem09\mp9-uf1-projectetailwind-jordi486\dist\mp9-uf1-projectetailwind-jordi486.59712999.js.map.2848.88133473689053895816 0
 114C:\Users\Usuario\Downloads\projectem09\mp9-uf1-projectetailwind-jordi486\dist\MP9_UF1_tailwind-project.59712999.js133473689051402431 0
 88C:\Users\Usuario\Downloads\projectem09\mp9-uf1-projectetailwind-jordi486\dist\output.css133473689054068366 0
-98C:\Users\Usuario\Downloads\projectem09\mp9-uf1-projectetailwind-jordi486\dist\producte.9aeaff1e.js133475643532581270 0
-102C:\Users\Usuario\Downloads\projectem09\mp9-uf1-projectetailwind-jordi486\dist\producte.9aeaff1e.js.map133475643532926248 0
+98C:\Users\Usuario\Downloads\projectem09\mp9-uf1-projectetailwind-jordi486\dist\producte.9aeaff1e.js133475731441034206 0
+102C:\Users\Usuario\Downloads\projectem09\mp9-uf1-projectetailwind-jordi486\dist\producte.9aeaff1e.js.map133475731441409388 0
 111C:\Users\Usuario\Downloads\projectem09\mp9-uf1-projectetailwind-jordi486\dist\producte.9aeaff1e.js.map.11960.d6133473689054652150 0
 110C:\Users\Usuario\Downloads\projectem09\mp9-uf1-projectetailwind-jordi486\dist\producte.9aeaff1e.js.map.1960.2u133473689054661934 0
-99C:\Users\Usuario\Downloads\projectem09\mp9-uf1-projectetailwind-jordi486\dist\producte1.bee9f856.js133475643532551300 0
-103C:\Users\Usuario\Downloads\projectem09\mp9-uf1-projectetailwind-jordi486\dist\producte1.bee9f856.js.map133475643532926248 0
-92C:\Users\Usuario\Downloads\projectem09\mp9-uf1-projectetailwind-jordi486\dist\producte1.html133475643532462438 0
+99C:\Users\Usuario\Downloads\projectem09\mp9-uf1-projectetailwind-jordi486\dist\producte1.bee9f856.js133475731441034206 0
+103C:\Users\Usuario\Downloads\projectem09\mp9-uf1-projectetailwind-jordi486\dist\producte1.bee9f856.js.map133475731441409388 0
+92C:\Users\Usuario\Downloads\projectem09\mp9-uf1-projectetailwind-jordi486\dist\producte1.html133475731440787042 0
 96C:\Users\Usuario\Downloads\projectem09\mp9-uf1-projectetailwind-jordi486\dist\prova.50a715d1.png133473689056066362 0
-102C:\Users\Usuario\Downloads\projectem09\mp9-uf1-projectetailwind-jordi486\dist\images\dronprincipi.avif133475727993313513 0
-94C:\Users\Usuario\Downloads\projectem09\mp9-uf1-projectetailwind-jordi486\dist\images\echo.avif133475727962535088 0
+102C:\Users\Usuario\Downloads\projectem09\mp9-uf1-projectetailwind-jordi486\dist\images\dronprincipi.avif133475731881059840 0
+94C:\Users\Usuario\Downloads\projectem09\mp9-uf1-projectetailwind-jordi486\dist\images\echo.avif133475731849219514 0

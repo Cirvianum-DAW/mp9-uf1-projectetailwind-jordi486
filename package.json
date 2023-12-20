@@ -234,17 +234,12 @@
     "imagemin": "^8.0.1",
     "imagemin-cli": "^7.0.0"
   },
-  
-    "scripts": {
-      "optimize-images": "npx imagemin img/* --out-dir=dist/images --plugin=avif",
-      "start": "parcel /src/index.html",
-      "build": "npm run optimize-images && parcel build /src/index.html",
-      "dev": "parcel /src/index.html"
-    },
-  
-  
-  
-
+  "scripts": {
+    "optimize-images": "npx imagemin img/* --out-dir=dist/images --plugin=avif",
+    "start": "parcel /src/index.html",
+    "build": "npm run optimize-images && parcel build /src/index.html",
+    "dev": "parcel ./src/index.html"
+  },
   "author": "",
   "license": "ISC"
 }
