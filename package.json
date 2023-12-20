@@ -89,6 +89,7 @@
     "html-encoding-sniffer": "^1.0.2",
     "http-signature": "^1.2.0",
     "iconv-lite": "^0.4.24",
+    "imagemin-avif": "^0.1.4",
     "indexes-of": "^1.0.1",
     "inflight": "^1.0.6",
     "inherits": "^2.0.4",
@@ -229,12 +230,21 @@
     "xmlchars": "^2.2.0",
     "yaml": "^2.3.3"
   },
-  "devDependencies": {},
-  "scripts": {
-    "start": "parcel /src/index.html",
-    "build": "parcel build /src/index.html",
-    "dev": "parcel src/index.html"
+  "devDependencies": {
+    "imagemin": "^8.0.1",
+    "imagemin-cli": "^7.0.0"
   },
+  
+    "scripts": {
+      "optimize-images": "npx imagemin img/* --out-dir=dist/images --plugin=avif",
+      "start": "parcel /src/index.html",
+      "build": "npm run optimize-images && parcel build /src/index.html",
+      "dev": "parcel /src/index.html"
+    },
+  
+  
+  
+
   "author": "",
   "license": "ISC"
 }
